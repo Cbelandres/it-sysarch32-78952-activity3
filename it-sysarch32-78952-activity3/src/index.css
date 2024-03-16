@@ -71,5 +71,14 @@ button:focus-visible {
   }
   .pokemon-card{
     display: inline-block;
+    border: #213547;
+    border-radius: 0cap;
+    border: solid;
   }
+  
+}
+.pokemon-list{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
 }
